@@ -1,0 +1,2702 @@
+{
+    "004ad138-666c-01fa-dcbc-52f9dc2e3689": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bag Standing.mesh.nasset/Thumbnails/Bag Standing.mesh.nasset.tex.nasset"
+    },
+    "020b779f-815b-7a98-395c-2fedff6bcc3e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Skull.mesh.nasset/Thumbnails/Skull.mesh.nasset.tex.nasset"
+    },
+    "03c20932-64bd-1b31-1b47-28bfe1ba4f57": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Table Big.mesh.nasset/Table Big Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "04c80bff-2ca1-b4f9-7b83-d04b3c736c06": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base.mesh.nasset/Thumbnails/Chest Base.mesh.nasset.tex.nasset"
+    },
+    "0575cf70-0e24-776f-e871-b7c04bb167b0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Crate.mesh.nasset/Crate Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "067fec5e-f5d6-000d-a941-b3bda848aa5a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bag Standing.mesh.nasset/Bag Standing Bag.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0740f485-d33c-d454-4a29-e810406dff86",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0687f28c-c4e9-336d-15bd-90e20b573b5c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner.mesh.nasset/Banner Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0740f485-d33c-d454-4a29-e810406dff86": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Bag.mtli.nasset",
+        "thumbnail": "6122d48a-6abe-477f-d94b-3328fb1eb59b",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "086ff173-ee7f-32aa-fa3f-5add95b3cc1c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword Big.mesh.nasset/Sword Big Light Steel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c61a44c4-7a46-aa1f-091a-776ef2d41a31",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0885c4d3-afaa-6f31-f56a-beaaf01540bb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Decorative Wall.mesh.nasset/Decorative Wall.mesh.nasset",
+        "thumbnail": "0ab22838-05d1-89fa-93d0-20124f2862fd",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1e015a4f-516e-2499-1c68-164302ba7f37",
+            "29a367c4-ceee-1355-70a7-95f1ce062aa6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "5890b3f0-3f81-6cf3-1d67-3d70cde1ed64",
+            "9bd0be25-7f2a-4657-9e93-9c95a4719884"
+        ]
+    },
+    "0ab22838-05d1-89fa-93d0-20124f2862fd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Decorative Wall.mesh.nasset/Thumbnails/Decorative Wall.mesh.nasset.tex.nasset"
+    },
+    "0b3c3378-ef39-c47b-db5e-6104f26cd03e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Stairs Side Cover.mesh.nasset/Thumbnails/Stairs Side Cover.mesh.nasset.tex.nasset"
+    },
+    "0c267074-2857-0866-97ea-d56ab37c8b71": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Floor Modular.mesh.nasset/Floor Modular Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0c61ef22-9b66-47b9-00df-cdf186760c90": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Steel.mtli.nasset.tex.nasset"
+    },
+    "0cd623de-b8ad-501e-774f-478640b44b66": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence Straight Modular.mesh.nasset/Fence Straight Modular Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0cdee11c-223a-1ef5-6b32-886d2b3d4c90": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Dark Wood.mtli.nasset.tex.nasset"
+    },
+    "0e6c5376-5b91-7346-b7d5-106c862e4ad4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door Side.mesh.nasset/Arch Door Side Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0efa1e9c-5c7f-a6f9-c9d9-315713a97fd1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Vase.mesh.nasset/Thumbnails/Vase.mesh.nasset.tex.nasset"
+    },
+    "1096c804-6356-95cb-c823-32f616154ae2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword.mesh.nasset/Sword Dark Steel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3c6c81af-7020-0b25-f123-d5721a853df9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "12fc7341-df9b-fe76-449c-958abfd8274e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wall Modular.mesh.nasset/Wall Modular Wall Highlights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5890b3f0-3f81-6cf3-1d67-3d70cde1ed64",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "151883a7-d6e6-456d-b414-a39ede867708": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Table Small.mesh.nasset/Thumbnails/Table Small.mesh.nasset.tex.nasset"
+    },
+    "157277d0-a511-808c-5ea0-2fed6081b1f7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Cobweb 2.mesh.nasset/Cobweb 2 Cobweb.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b4e04d8f-4184-d57e-d27e-85ebb1d22cfb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "16894dac-dad4-54fe-4ded-73485e2d8a19": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bag Coins.mesh.nasset/Bag Coins Gold.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e59b9ab9-2ec1-9979-3293-e723d1a9e225",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "19fedafb-5533-81fc-a969-5ece51040a1f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Floor Bricks 2.mesh.nasset/Floor Bricks 2 Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1a54c4ed-a2e5-9674-bd4a-c7567ac33686": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Pedestal 2.mesh.nasset/Pedestal 2 Marble.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "97884b95-9ae0-663c-45d8-5f6a3d8255bc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1a93861b-a2f0-7db8-3297-53992d0d38ef": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wood Fire.mesh.nasset/Wood Fire Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1e015a4f-516e-2499-1c68-164302ba7f37": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Wall Dark.mtli.nasset",
+        "thumbnail": "f4d21bd4-e81b-d3f7-6763-92b7d1370b32",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "1e1f2ad5-ef03-9beb-fe09-926457f97989": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword.mesh.nasset/Sword Light Steel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c61a44c4-7a46-aa1f-091a-776ef2d41a31",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1e4f1045-8383-d8bc-95e9-67643b3cfe1f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor Open.mesh.nasset/Trapdoor Open Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1ee00ea9-a35f-63e1-8a59-a5f0416a1b2b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wall Modular.mesh.nasset/Wall Modular.mesh.nasset",
+        "thumbnail": "e3a1c894-21c6-b3fd-2bed-7f5a56fea62f",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1e015a4f-516e-2499-1c68-164302ba7f37",
+            "8b93b875-76ab-a4d0-ba00-3da1a177fb16",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f926d79d-2739-555e-85da-6ecc8831fb77",
+            "ddab5c08-a341-df2e-1819-9b1e6aa8ffb7",
+            "5890b3f0-3f81-6cf3-1d67-3d70cde1ed64",
+            "12fc7341-df9b-fe76-449c-958abfd8274e"
+        ]
+    },
+    "20103be2-725f-6afa-785e-38e4ee02f632": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Floor Bricks 1.mesh.nasset/Floor Bricks 1 Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "204f7cc9-7bca-3985-0d89-fe69852b8151": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner.mesh.nasset/Banner Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "20a2476c-9141-a58c-3e38-94a25eaf32f2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Top.mesh.nasset/Chest Top Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "215e8e58-e064-f1fe-2c74-9f578aa871ef": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Stairs Side Cover Wall.mesh.nasset/Thumbnails/Stairs Side Cover Wall.mesh.nasset.tex.nasset"
+    },
+    "21f9d6e7-a792-70ca-3ce1-59279269908b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner wall.mesh.nasset/Banner wall Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "221841e7-7058-fbe4-efd6-dfd3690d1907": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wood Fire.mesh.nasset/Wood Fire Fire.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e9592513-b0c2-cde1-2492-e8c34c92211e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "221a1739-3095-2a06-f4b8-02a6f1f516fd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence 90 Modular.mesh.nasset/Thumbnails/Fence 90 Modular.mesh.nasset.tex.nasset"
+    },
+    "2686a8d0-e37e-ac5b-359f-b6247ff51d84": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor Open.mesh.nasset/Trapdoor Open Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "26ba97d2-079e-d769-0a4d-daa4ff37596b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Column 1.mesh.nasset/Column 1 Dark Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9741852d-3737-601f-1f5e-cfc61adbf4a4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "26d45c98-6432-2c9d-c769-27a9d96c0ed1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Dark Wood.mtli.nasset",
+        "thumbnail": "0cdee11c-223a-1ef5-6b32-886d2b3d4c90",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "27d9be0b-cecb-3fa7-90f4-60d65455c758": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Floor Modular.mesh.nasset/Floor Modular.mesh.nasset",
+        "thumbnail": "d4070a19-d500-77d8-8369-f0c9ad51aa5f",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "0c267074-2857-0866-97ea-d56ab37c8b71",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "292e8adb-2679-4bf2-4130-8a2cd025d931": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Main.mtli.nasset.tex.nasset"
+    },
+    "2933a54f-617e-812f-343c-07d2beb485b1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Crate.mesh.nasset/Crate Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "29a367c4-ceee-1355-70a7-95f1ce062aa6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Decorative Wall.mesh.nasset/Decorative Wall Wall Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1e015a4f-516e-2499-1c68-164302ba7f37",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2af69df1-b741-7e68-f4d3-fff4e66c0018": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Torch.mesh.nasset/Torch Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2bfb06f3-4ec1-d203-2907-0c583efaf818": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bag Standing.mesh.nasset/Bag Standing Thread.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "dd5db69c-5004-359f-6e5f-d0c2233ec689",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2c176483-2963-bd4d-fb3f-a2e6a37ca6ac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base.mesh.nasset/Chest Base.mesh.nasset",
+        "thumbnail": "04c80bff-2ca1-b4f9-7b83-d04b3c736c06",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "9edcf7ad-e450-7dbc-05d4-cbbfca04b9bd",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "f45541f2-11a6-e0dd-aab4-d5f1b3da1bcd",
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "9462b687-a68c-1d39-f4ae-f6e78f87a43c"
+        ]
+    },
+    "2c3d7424-2a77-a363-643c-744130fc78ce": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Brick.mesh.nasset/Thumbnails/Brick.mesh.nasset.tex.nasset"
+    },
+    "2c8c498f-1cf5-a409-8be6-ab14e5e4e516": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Bone.mtli.nasset",
+        "thumbnail": "b32eaa9e-70ce-0839-d8f4-9ba457e8b739",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "2ee6d1c0-e08f-ad06-d9c8-6fd18252fc04": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword Big.mesh.nasset/Sword Big Steel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7b74f596-fd37-ca1f-b8e2-f0536336dc4b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2f27926f-2a61-f84a-8fde-3de01c567b0a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Statue.mtli.nasset",
+        "thumbnail": "7b117ebe-9b87-20dc-dfaf-f2a467369e3f",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "32c618ce-7ff3-2eb1-50ad-f20c1ce8c0ed": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence End Modular.mesh.nasset/Fence End Modular Dark Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9741852d-3737-601f-1f5e-cfc61adbf4a4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "33a0cd3f-9a07-15ea-6255-df21e0ae52af": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Column 2.mesh.nasset/Thumbnails/Column 2.mesh.nasset.tex.nasset"
+    },
+    "343d4c99-5e16-9dd3-d3ee-cdf84d50a4c6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Horse.mesh.nasset/Horse.mesh.nasset",
+        "thumbnail": "891c3cb4-96f3-9f89-dce5-9a078d50b973",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2f27926f-2a61-f84a-8fde-3de01c567b0a",
+            "c985127a-ae9e-18bf-500b-104ee2b9289c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "344faabb-36d2-ae6d-b0b4-101d0d5798aa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword.mesh.nasset/Sword Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3617e89f-668e-2bdf-ad80-74eb0eb176cc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Coin Pile.mesh.nasset/Thumbnails/Coin Pile.mesh.nasset.tex.nasset"
+    },
+    "3b6e3607-8274-2180-bbe6-8c971f4832c4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Brick.mesh.nasset/Brick.mesh.nasset",
+        "thumbnail": "2c3d7424-2a77-a363-643c-744130fc78ce",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "7a5719a4-b254-a928-caa5-d7fc3f351414",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3c6c81af-7020-0b25-f123-d5721a853df9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Dark Steel.mtli.nasset",
+        "thumbnail": "82949b7a-e233-652d-b6d2-debe2aab9eb4",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "3cabf998-f3af-89ab-de1e-4e973c44ff90": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence Straight Modular.mesh.nasset/Fence Straight Modular Dark Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9741852d-3737-601f-1f5e-cfc61adbf4a4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3de9d714-ea3e-ff48-e381-43c9e011e5bc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trap Spikes.mesh.nasset/Thumbnails/Trap Spikes.mesh.nasset.tex.nasset"
+    },
+    "3f321869-3b08-98d4-8cb9-c9cb80923349": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bucket.mesh.nasset/Bucket Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "404ab249-617d-7750-fb2a-c291b485a32e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Barrel 2.mesh.nasset/Thumbnails/Barrel 2.mesh.nasset.tex.nasset"
+    },
+    "422a54b3-5afe-d766-1dd7-e480888fb552": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword.mesh.nasset/Sword Light Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8f50d4cb-4f4c-1518-35d9-15269ea37612",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "42674b06-d415-2af5-ef83-cf29efb3771b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Torch.mesh.nasset/Torch.mesh.nasset",
+        "thumbnail": "699b68d6-e971-4888-6744-f7d965d2cdb3",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "2af69df1-b741-7e68-f4d3-fff4e66c0018",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "e9592513-b0c2-cde1-2492-e8c34c92211e",
+            "7f2ffbdc-d404-bd33-5bda-771c86a7d4ce"
+        ]
+    },
+    "43bfbb40-7c02-8fb0-c2bb-0919a8447f15": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chair.mesh.nasset/Chair.mesh.nasset",
+        "thumbnail": "cf54e6d1-3664-a274-f9d8-40e19e9dc187",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "d76e9795-e01e-fdf2-c1cd-8452e5b5ac4f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "b4a98e94-1e5d-931b-524e-69394bf59b9e",
+            "a4d5610e-a217-bbff-ff18-caa17beb2340",
+            "b810fdc4-5d09-a8a8-2883-ee6783b30f26"
+        ]
+    },
+    "43f12f15-1119-a147-3bf4-a81f7c4967fa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Light Steel.mtli.nasset.tex.nasset"
+    },
+    "44fd4103-c50d-1741-9485-6aaf3c0a71b0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence End Modular.mesh.nasset/Fence End Modular.mesh.nasset",
+        "thumbnail": "9ab5216d-512c-fd7c-34ab-e212d796eb18",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "7962d830-1962-a11e-3faf-5e0b6b363b6f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "9741852d-3737-601f-1f5e-cfc61adbf4a4",
+            "32c618ce-7ff3-2eb1-50ad-f20c1ce8c0ed"
+        ]
+    },
+    "458944fc-9693-f147-a527-387cb60a5e93": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Spikes.mesh.nasset/Thumbnails/Spikes.mesh.nasset.tex.nasset"
+    },
+    "45a2dacb-b1c7-bf9e-5253-eb9adb737794": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Stairs Side Cover Wall.mesh.nasset/Stairs Side Cover Wall.mesh.nasset",
+        "thumbnail": "215e8e58-e064-f1fe-2c74-9f578aa871ef",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "cc7884c6-884a-c0ec-42b2-c85960f08093",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "45d14614-1575-a091-af87-0599472232f4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Pedestal 1.mesh.nasset/Pedestal 1.mesh.nasset",
+        "thumbnail": "ff505b44-50ce-276e-a987-683dfaf7cee5",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "97884b95-9ae0-663c-45d8-5f6a3d8255bc",
+            "8a998cdb-1a68-0029-8260-7c46b8a83302",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "476d6e89-6668-92a2-4099-e04167c19375": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Vase.mesh.nasset/Vase Wall Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1e015a4f-516e-2499-1c68-164302ba7f37",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "48ccecac-85b8-cccf-93a8-565ea8551416": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Wall Medium.mtli.nasset.tex.nasset"
+    },
+    "49c3198b-c582-0f94-46bf-3d901d129441": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Pedestal 2.mesh.nasset/Pedestal 2.mesh.nasset",
+        "thumbnail": "4a0a498e-2c0f-f6e9-f995-1d6ffa5fadba",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "97884b95-9ae0-663c-45d8-5f6a3d8255bc",
+            "1a54c4ed-a2e5-9674-bd4a-c7567ac33686",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4a0a498e-2c0f-f6e9-f995-1d6ffa5fadba": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Pedestal 2.mesh.nasset/Thumbnails/Pedestal 2.mesh.nasset.tex.nasset"
+    },
+    "4bb57605-ab7d-edcb-47e5-41f0280b802b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner wall.mesh.nasset/Banner wall Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4c0fed0e-ca22-b581-1471-c583176620f9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Lost_Quarters_Thumb.tex.nasset"
+    },
+    "4c3ea800-b78f-a68f-a850-a79a040a37b4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Floor Bricks 1.mesh.nasset/Floor Bricks 1.mesh.nasset",
+        "thumbnail": "5f64633e-75a3-7a53-8f74-787f4b3c7f05",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "20103be2-725f-6afa-785e-38e4ee02f632",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4e0b4018-4101-fc3d-cdbf-aaa1923387a2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bag Coins.mesh.nasset/Thumbnails/Bag Coins.mesh.nasset.tex.nasset"
+    },
+    "4e618b40-d05c-3bb9-9e70-3d3fe9e7f505": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Cobweb.mtli.nasset.tex.nasset"
+    },
+    "4f43268a-2d04-18e6-8823-881a8dcce25d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Cobweb 1.mesh.nasset/Cobweb 1.mesh.nasset",
+        "thumbnail": "df503a25-2682-827b-d4f9-579e97d11b17",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b4e04d8f-4184-d57e-d27e-85ebb1d22cfb",
+            "bfb69d49-ab47-19a1-6ebd-bee5aa811e9e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4f946009-c604-6200-17b5-8fc13cd274aa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Marble.mtli.nasset.tex.nasset"
+    },
+    "5141ffbc-3104-e247-fd09-a8800edb454b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Barrel 1.mesh.nasset/Barrel 1 Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "52d79abe-6700-eb2a-8cfb-a56145b053f2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Column 1.mesh.nasset/Column 1 Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "52e54f3d-a882-6b52-474e-f05cca69d7ca": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door 2.mesh.nasset/Arch Door 2 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "53f35b98-d254-9402-7ffd-afb057759692": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner.mesh.nasset/Banner Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a4d5610e-a217-bbff-ff18-caa17beb2340",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5406b2eb-1fbc-e594-b13e-d446b599a5e2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Crate.mesh.nasset/Crate.mesh.nasset",
+        "thumbnail": "ae444e2b-ae89-e44d-6e66-36d789c75489",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "0575cf70-0e24-776f-e871-b7c04bb167b0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "2933a54f-617e-812f-343c-07d2beb485b1"
+        ]
+    },
+    "552cda43-0020-21c9-2483-d5e29d8c8dd6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Column 1.mesh.nasset/Thumbnails/Column 1.mesh.nasset.tex.nasset"
+    },
+    "56f9e1b1-c2ea-899b-ef35-bcfd5108675c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Spikes.mesh.nasset/Spikes.mesh.nasset",
+        "thumbnail": "458944fc-9693-f147-a527-387cb60a5e93",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "b5ef1c7b-c9e0-182f-3cb0-6503fa8c8c56",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "574c4dac-95be-278f-541e-038e1f99054b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Wood.mtli.nasset",
+        "thumbnail": "ad80eba1-5c8a-dbc8-2d8a-512c819d7c7b",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "5890b3f0-3f81-6cf3-1d67-3d70cde1ed64": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Wall Highlights.mtli.nasset",
+        "thumbnail": "b24e8d12-595a-af2a-9f19-c98c32d3e230",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "58c46c1a-a862-dfa4-8080-19796b830d8b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Column 2.mesh.nasset/Column 2.mesh.nasset",
+        "thumbnail": "33a0cd3f-9a07-15ea-6255-df21e0ae52af",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "95b1ec17-8387-8824-ee9b-c13a7a11b00f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "9741852d-3737-601f-1f5e-cfc61adbf4a4",
+            "99e650ec-51b1-4f0a-764a-74168a7c555a"
+        ]
+    },
+    "5987fad4-612d-53a9-5331-bc014c1464e8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base Full.mesh.nasset/Chest Base Full Gold.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e59b9ab9-2ec1-9979-3293-e723d1a9e225",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5f64633e-75a3-7a53-8f74-787f4b3c7f05": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Floor Bricks 1.mesh.nasset/Thumbnails/Floor Bricks 1.mesh.nasset.tex.nasset"
+    },
+    "60dde3ce-e4b0-f42c-c753-067cae75bf30": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Stairs Modular.mesh.nasset/Stairs Modular.mesh.nasset",
+        "thumbnail": "e9cde43e-2682-39bc-166d-cf5c61b74507",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "c0c91b61-175d-75fc-d30f-1ba466460e26",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6122d48a-6abe-477f-d94b-3328fb1eb59b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Bag.mtli.nasset.tex.nasset"
+    },
+    "61661a36-1528-8d1c-f124-51d41099cbb8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor.mesh.nasset/Trapdoor Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "619cf270-cf08-537b-f175-d598a7590ad4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door 2.mesh.nasset/Arch Door 2.mesh.nasset",
+        "thumbnail": "a2c4d201-dc75-c42c-ecad-b2460826bdb8",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "aec8309c-fc40-b03c-bcb4-907655d04049",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "fb8b5769-e966-e79e-c929-8a71306552c8",
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "8a947a48-bfbc-b9b0-a94a-e574b8a71030",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "52e54f3d-a882-6b52-474e-f05cca69d7ca"
+        ]
+    },
+    "61b40db9-b763-fdb0-e28d-9891c1349287": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Dark Metal.mtli.nasset.tex.nasset"
+    },
+    "61cf0c1c-0986-042c-5e6d-b0122dc7db78": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bucket.mesh.nasset/Bucket Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "62c48fbb-e283-4024-d390-edeedb4c747f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Top.mesh.nasset/Chest Top Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6304860e-6661-c5a6-15e5-9b9b351a9724": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword Wall Mount.mesh.nasset/Sword Wall Mount.mesh.nasset",
+        "thumbnail": "b47e9dcf-a4f3-4e60-f12a-de7aed600b37",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "a2b51064-326f-8a73-bda4-f55d144dcbe1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "630e2884-023d-c693-d929-36c78cca567c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch.mesh.nasset/Arch Wall Highlights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5890b3f0-3f81-6cf3-1d67-3d70cde1ed64",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "631609d7-862e-cec6-ec98-bedd60a6f579": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Vase.mesh.nasset/Vase.mesh.nasset",
+        "thumbnail": "0efa1e9c-5c7f-a6f9-c9d9-315713a97fd1",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1e015a4f-516e-2499-1c68-164302ba7f37",
+            "476d6e89-6668-92a2-4099-e04167c19375",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "63f73623-51e5-2bb1-8b90-113999755a0c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword Big.mesh.nasset/Sword Big Dark Steel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3c6c81af-7020-0b25-f123-d5721a853df9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6528c9dd-e122-27d5-1203-724db89af886": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Cobweb 2.mesh.nasset/Cobweb 2.mesh.nasset",
+        "thumbnail": "cd3a864c-3f6b-3a41-3b8b-794a62f21630",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b4e04d8f-4184-d57e-d27e-85ebb1d22cfb",
+            "157277d0-a511-808c-5ea0-2fed6081b1f7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6581bfb0-93c5-1a26-9497-212c97b7cf23": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trap Spikes.mesh.nasset/Trap Spikes Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "661265c6-4f6b-0c2b-a9a8-af228cb4dd60": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bucket.mesh.nasset/Thumbnails/Bucket.mesh.nasset.tex.nasset"
+    },
+    "666f54bd-82a0-623e-21d0-9dd1f3b11f37": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Coin Pile.mesh.nasset/Coin Pile.mesh.nasset",
+        "thumbnail": "3617e89f-668e-2bdf-ad80-74eb0eb176cc",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e59b9ab9-2ec1-9979-3293-e723d1a9e225",
+            "90b6bfc3-2a7f-c8f9-9680-c6965a823e3c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "69969559-9529-4db6-4c4e-5b920e6b94a3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wall Cover Modular.mesh.nasset/Wall Cover Modular Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "699b68d6-e971-4888-6744-f7d965d2cdb3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Torch.mesh.nasset/Thumbnails/Torch.mesh.nasset.tex.nasset"
+    },
+    "69ebd428-e5c8-e01e-3f56-164068f8b4bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Iron.mtli.nasset.tex.nasset"
+    },
+    "6a4b7742-6ad4-c6d2-2869-6012124b60fe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Barrel 1.mesh.nasset/Barrel 1 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6b22ab5a-acb0-d86f-fb35-2667ee79c760": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base Full.mesh.nasset/Chest Base Full.mesh.nasset",
+        "thumbnail": "9aeb130b-af8a-359d-36b2-20c422117e67",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "836c12db-8635-d5ed-abb4-a17ee9a2cee3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "dd4f084a-7928-4de2-9d01-0ba89f1e076c",
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "f0954c5d-54f8-5f78-46a6-3702f16a2ed7",
+            "e59b9ab9-2ec1-9979-3293-e723d1a9e225",
+            "5987fad4-612d-53a9-5331-bc014c1464e8"
+        ]
+    },
+    "6d4ceacc-2c26-f7e0-81f9-81f09fd0b8d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Skull.mesh.nasset/Skull.mesh.nasset",
+        "thumbnail": "020b779f-815b-7a98-395c-2fedff6bcc3e",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2c8c498f-1cf5-a409-8be6-ab14e5e4e516",
+            "7d8acfcc-8043-c82a-d007-94e7bc0313cb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "70c820fd-e884-ccb4-b957-b6ae0bde318d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Table Big.mesh.nasset/Table Big Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "74118191-479b-abba-76a7-f06cdc2e0a7c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wall Cover Modular.mesh.nasset/Wall Cover Modular.mesh.nasset",
+        "thumbnail": "dd9cbe5a-3839-4a18-d7e5-5fef154d3f59",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "69969559-9529-4db6-4c4e-5b920e6b94a3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "74330b02-195b-0009-5ccf-03446e66a108": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor.mesh.nasset/Trapdoor Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "747cf2ee-6cee-b1a4-a81f-e9228006592a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trap Spikes.mesh.nasset/Trap Spikes.mesh.nasset",
+        "thumbnail": "3de9d714-ea3e-ff48-e381-43c9e011e5bc",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "be587501-8944-db39-7a69-e8a890ffb091",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "6581bfb0-93c5-1a26-9497-212c97b7cf23"
+        ]
+    },
+    "7529b511-121d-0435-c6b2-0a9bb85e71d3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wood Fire.mesh.nasset/Thumbnails/Wood Fire.mesh.nasset.tex.nasset"
+    },
+    "7602e5d6-2056-2b94-c5e8-b42c1b36beab": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Bars.mesh.nasset/Arch Bars Iron.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b76984f6-7ea5-0372-be87-bc103c10ad31",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "78073394-4c14-6462-ae0f-5158e82c7b26": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner wall.mesh.nasset/Banner wall Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a4d5610e-a217-bbff-ff18-caa17beb2340",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "78673105-bafa-6827-5535-6274ccc6d78d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trap Empty.mesh.nasset/Thumbnails/Trap Empty.mesh.nasset.tex.nasset"
+    },
+    "787aad51-47da-3968-c4e2-3076e6aa0789": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Table Big.mesh.nasset/Table Big.mesh.nasset",
+        "thumbnail": "a9522475-acdf-dd41-7426-86dd06c0af17",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "70c820fd-e884-ccb4-b957-b6ae0bde318d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "d3dd0662-fc55-769c-bfaf-aad4b6f24e33",
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "03c20932-64bd-1b31-1b47-28bfe1ba4f57"
+        ]
+    },
+    "7941e4ac-85fb-ebb8-4786-8205b915962b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trap Empty.mesh.nasset/Trap Empty.mesh.nasset",
+        "thumbnail": "78673105-bafa-6827-5535-6274ccc6d78d",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "e40c7bd8-a869-015b-bca5-c03267ddd1f3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7962d830-1962-a11e-3faf-5e0b6b363b6f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence End Modular.mesh.nasset/Fence End Modular Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7a5719a4-b254-a928-caa5-d7fc3f351414": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Brick.mesh.nasset/Brick Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7a805ede-37b1-a937-2e41-ef8cb8825fb7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Bars.mesh.nasset/Thumbnails/Arch Bars.mesh.nasset.tex.nasset"
+    },
+    "7a88227c-ea1b-f3d4-1872-01555a9acc8d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/SC_Lost_Quarters.scene.nasset",
+        "dependencies": [
+            "7da98752-630d-d0aa-489c-e0127a22e4b2",
+            "7f5fb5a4-f4c9-eaf7-3a27-4fa58c7c4439",
+            "f66a3bf2-1484-8159-fef2-50538e883e1c",
+            "619cf270-cf08-537b-f175-d598a7590ad4",
+            "d8b15a46-2114-a663-3fc7-e6c63e3d5ce4",
+            "8b3108dc-e355-f18c-68e5-be0e1222a5aa",
+            "8218f3fb-970a-d731-8b1d-39b5b4bdeb74",
+            "fad8c600-84f8-6d13-c309-ba2c4e81051a",
+            "a2045d0c-67f3-45ff-3d85-e6131925dec4",
+            "dd8763b0-b01b-7e9e-7a7f-88dbe9535593",
+            "3b6e3607-8274-2180-bbe6-8c971f4832c4",
+            "ed17a18a-be98-7f3c-4c4c-09b068bc935d",
+            "43bfbb40-7c02-8fb0-c2bb-0919a8447f15",
+            "2c176483-2963-bd4d-fb3f-a2e6a37ca6ac",
+            "6b22ab5a-acb0-d86f-fb35-2667ee79c760",
+            "ca4eedb0-c7b1-b965-2c2d-5e188e9d85fc",
+            "4f43268a-2d04-18e6-8823-881a8dcce25d",
+            "6528c9dd-e122-27d5-1203-724db89af886",
+            "666f54bd-82a0-623e-21d0-9dd1f3b11f37",
+            "e184fb63-4990-2177-fc15-61e1f35cd217",
+            "58c46c1a-a862-dfa4-8080-19796b830d8b",
+            "5406b2eb-1fbc-e594-b13e-d446b599a5e2",
+            "0885c4d3-afaa-6f31-f56a-beaaf01540bb",
+            "afdcf632-b027-8eeb-9f24-c9589eba82b1",
+            "44fd4103-c50d-1741-9485-6aaf3c0a71b0",
+            "c52915d9-07bf-f5fd-bcff-18471b030ea5",
+            "4c3ea800-b78f-a68f-a850-a79a040a37b4",
+            "c4a406cc-a801-6e49-a7ea-c91d12509351",
+            "27d9be0b-cecb-3fa7-90f4-60d65455c758",
+            "343d4c99-5e16-9dd3-d3ee-cdf84d50a4c6",
+            "45d14614-1575-a091-af87-0599472232f4",
+            "49c3198b-c582-0f94-46bf-3d901d129441",
+            "6d4ceacc-2c26-f7e0-81f9-81f09fd0b8d5",
+            "56f9e1b1-c2ea-899b-ef35-bcfd5108675c",
+            "60dde3ce-e4b0-f42c-c753-067cae75bf30",
+            "d0ceebdd-2da3-f010-35b7-082b627fff92",
+            "45a2dacb-b1c7-bf9e-5253-eb9adb737794",
+            "e3623645-1637-c3c1-e67f-4641b9fac33a",
+            "d94219d5-30f4-45e4-ead3-c8bf402caf29",
+            "6304860e-6661-c5a6-15e5-9b9b351a9724",
+            "787aad51-47da-3968-c4e2-3076e6aa0789",
+            "fdb0aa61-dcec-e99d-2517-0b63f93d0bfc",
+            "42674b06-d415-2af5-ef83-cf29efb3771b",
+            "7941e4ac-85fb-ebb8-4786-8205b915962b",
+            "747cf2ee-6cee-b1a4-a81f-e9228006592a",
+            "96650cd3-7f2a-ceb1-e830-96abe1aa72ff",
+            "b2ebc747-f613-c658-b9b1-17210f8e9f6b",
+            "631609d7-862e-cec6-ec98-bedd60a6f579",
+            "1ee00ea9-a35f-63e1-8a59-a5f0416a1b2b",
+            "74118191-479b-abba-76a7-f06cdc2e0a7c",
+            "e30240af-6041-d057-7016-d003d4179fd2"
+        ]
+    },
+    "7b117ebe-9b87-20dc-dfaf-f2a467369e3f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Statue.mtli.nasset.tex.nasset"
+    },
+    "7b74f596-fd37-ca1f-b8e2-f0536336dc4b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Steel.mtli.nasset",
+        "thumbnail": "0c61ef22-9b66-47b9-00df-cdf186760c90",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "7bf165ee-096a-f79b-dc35-c0354b0e9cad": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bucket.mesh.nasset/Bucket Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7c047b4a-6f4b-a987-41d3-99dc453fef12": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Barrel 2.mesh.nasset/Barrel 2 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7d8acfcc-8043-c82a-d007-94e7bc0313cb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Skull.mesh.nasset/Skull Bone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2c8c498f-1cf5-a409-8be6-ab14e5e4e516",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7da98752-630d-d0aa-489c-e0127a22e4b2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch.mesh.nasset/Arch.mesh.nasset",
+        "thumbnail": "eff31191-d5d2-afc8-e39c-6a0e49b2430d",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1e015a4f-516e-2499-1c68-164302ba7f37",
+            "bde87730-6de1-5b75-c66f-46bb7e7ffd8f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "5890b3f0-3f81-6cf3-1d67-3d70cde1ed64",
+            "630e2884-023d-c693-d929-36c78cca567c",
+            "f926d79d-2739-555e-85da-6ecc8831fb77",
+            "eab7e603-4b0a-29c2-8706-298aedaef5cc"
+        ]
+    },
+    "7f2ffbdc-d404-bd33-5bda-771c86a7d4ce": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Torch.mesh.nasset/Torch Fire.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e9592513-b0c2-cde1-2492-e8c34c92211e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7f5fb5a4-f4c9-eaf7-3a27-4fa58c7c4439": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Bars.mesh.nasset/Arch Bars.mesh.nasset",
+        "thumbnail": "7a805ede-37b1-a937-2e41-ef8cb8825fb7",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b76984f6-7ea5-0372-be87-bc103c10ad31",
+            "7602e5d6-2056-2b94-c5e8-b42c1b36beab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7fbb4157-010f-3b54-2ee4-f5d650d6ec87": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Barrel 1.mesh.nasset/Barrel 1 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "81035c45-29d9-be10-5894-36f9aa44ac4c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor Open.mesh.nasset/Thumbnails/Trapdoor Open.mesh.nasset.tex.nasset"
+    },
+    "810e474c-02aa-d569-ccbf-b08c5fa78415": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Table Small.mesh.nasset/Table Small Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8218f3fb-970a-d731-8b1d-39b5b4bdeb74": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner.mesh.nasset/Banner.mesh.nasset",
+        "thumbnail": "9f4f9cc0-5fba-0ae3-c837-aa3ba9c02e53",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "204f7cc9-7bca-3985-0d89-fe69852b8151",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "e9266d1d-58ff-8e94-0671-5f9dbc4055d1",
+            "a4d5610e-a217-bbff-ff18-caa17beb2340",
+            "53f35b98-d254-9402-7ffd-afb057759692",
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "0687f28c-c4e9-336d-15bd-90e20b573b5c"
+        ]
+    },
+    "82949b7a-e233-652d-b6d2-debe2aab9eb4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Dark Steel.mtli.nasset.tex.nasset"
+    },
+    "836c12db-8635-d5ed-abb4-a17ee9a2cee3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base Full.mesh.nasset/Chest Base Full Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "891c3cb4-96f3-9f89-dce5-9a078d50b973": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Horse.mesh.nasset/Thumbnails/Horse.mesh.nasset.tex.nasset"
+    },
+    "893c6b97-ff80-c6f5-f3bd-a132f111eb61": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wood Fire.mesh.nasset/Wood Fire Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8a947a48-bfbc-b9b0-a94a-e574b8a71030": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door 2.mesh.nasset/Arch Door 2 Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8a998cdb-1a68-0029-8260-7c46b8a83302": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Pedestal 1.mesh.nasset/Pedestal 1 Marble.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "97884b95-9ae0-663c-45d8-5f6a3d8255bc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8b3108dc-e355-f18c-68e5-be0e1222a5aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bag Standing.mesh.nasset/Bag Standing.mesh.nasset",
+        "thumbnail": "004ad138-666c-01fa-dcbc-52f9dc2e3689",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0740f485-d33c-d454-4a29-e810406dff86",
+            "067fec5e-f5d6-000d-a941-b3bda848aa5a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "dd5db69c-5004-359f-6e5f-d0c2233ec689",
+            "2bfb06f3-4ec1-d203-2907-0c583efaf818"
+        ]
+    },
+    "8b93b875-76ab-a4d0-ba00-3da1a177fb16": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wall Modular.mesh.nasset/Wall Modular Wall Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1e015a4f-516e-2499-1c68-164302ba7f37",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8f50d4cb-4f4c-1518-35d9-15269ea37612": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Light Wood.mtli.nasset",
+        "thumbnail": "d7be7666-57b9-cf3d-9345-16592ea4d3d5",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "8fb1a26c-c0ad-ebe8-4675-67106d7f2c54": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Table Small.mesh.nasset/Table Small Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "90b6bfc3-2a7f-c8f9-9680-c6965a823e3c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Coin Pile.mesh.nasset/Coin Pile Gold.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e59b9ab9-2ec1-9979-3293-e723d1a9e225",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9315e776-2342-b6b1-3c67-6a892256ac03": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Thread.mtli.nasset.tex.nasset"
+    },
+    "93234bf0-3ce0-678f-e859-538f5d5281dc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence 90 Modular.mesh.nasset/Fence 90 Modular Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9462b687-a68c-1d39-f4ae-f6e78f87a43c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base.mesh.nasset/Chest Base Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "95b1ec17-8387-8824-ee9b-c13a7a11b00f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Column 2.mesh.nasset/Column 2 Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "96650cd3-7f2a-ceb1-e830-96abe1aa72ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor.mesh.nasset/Trapdoor.mesh.nasset",
+        "thumbnail": "f684d440-8d38-be31-2ef1-edef05baa098",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "ab1b1cde-f143-8ee4-f15b-2508bfaef28e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "74330b02-195b-0009-5ccf-03446e66a108",
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "61661a36-1528-8d1c-f124-51d41099cbb8",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "e5ec0886-e1f0-fb22-f93f-e11ecf0f8d5f"
+        ]
+    },
+    "9741852d-3737-601f-1f5e-cfc61adbf4a4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Dark Grey Floor.mtli.nasset",
+        "thumbnail": "f4b014bf-e314-f8c6-c712-6d7cba74904b",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "97884b95-9ae0-663c-45d8-5f6a3d8255bc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Marble.mtli.nasset",
+        "thumbnail": "4f946009-c604-6200-17b5-8fc13cd274aa",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "99e650ec-51b1-4f0a-764a-74168a7c555a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Column 2.mesh.nasset/Column 2 Dark Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9741852d-3737-601f-1f5e-cfc61adbf4a4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9ab5216d-512c-fd7c-34ab-e212d796eb18": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence End Modular.mesh.nasset/Thumbnails/Fence End Modular.mesh.nasset.tex.nasset"
+    },
+    "9aeb130b-af8a-359d-36b2-20c422117e67": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base Full.mesh.nasset/Thumbnails/Chest Base Full.mesh.nasset.tex.nasset"
+    },
+    "9bd0be25-7f2a-4657-9e93-9c95a4719884": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Decorative Wall.mesh.nasset/Decorative Wall Wall Highlights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5890b3f0-3f81-6cf3-1d67-3d70cde1ed64",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9db77a1a-d5c8-b1b9-1d6f-b982211c6902": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor Open.mesh.nasset/Trapdoor Open Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9de6c0f2-62cd-23fe-b44e-9943d3a6560f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword Big.mesh.nasset/Sword Big Light Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8f50d4cb-4f4c-1518-35d9-15269ea37612",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9edcf7ad-e450-7dbc-05d4-cbbfca04b9bd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base.mesh.nasset/Chest Base Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9f4f9cc0-5fba-0ae3-c837-aa3ba9c02e53": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner.mesh.nasset/Thumbnails/Banner.mesh.nasset.tex.nasset"
+    },
+    "9ffecc1c-4e2b-b7eb-818b-34ff88079ce8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Floor Bricks 2.mesh.nasset/Thumbnails/Floor Bricks 2.mesh.nasset.tex.nasset"
+    },
+    "a018ec60-f5c2-a5ce-57b4-e62fcf4a9a83": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword Big.mesh.nasset/Thumbnails/Sword Big.mesh.nasset.tex.nasset"
+    },
+    "a2045d0c-67f3-45ff-3d85-e6131925dec4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Barrel 1.mesh.nasset/Barrel 1.mesh.nasset",
+        "thumbnail": "f609b597-5ac0-65c4-d368-3c63cc7bd431",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "5141ffbc-3104-e247-fd09-a8800edb454b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "7fbb4157-010f-3b54-2ee4-f5d650d6ec87",
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "6a4b7742-6ad4-c6d2-2869-6012124b60fe"
+        ]
+    },
+    "a2b51064-326f-8a73-bda4-f55d144dcbe1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword Wall Mount.mesh.nasset/Sword Wall Mount Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a2c4d201-dc75-c42c-ecad-b2460826bdb8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door 2.mesh.nasset/Thumbnails/Arch Door 2.mesh.nasset.tex.nasset"
+    },
+    "a40759a3-52ea-76bc-0446-301d8e2e5daf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence Straight Modular.mesh.nasset/Thumbnails/Fence Straight Modular.mesh.nasset.tex.nasset"
+    },
+    "a4d5610e-a217-bbff-ff18-caa17beb2340": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Main.mtli.nasset",
+        "thumbnail": "292e8adb-2679-4bf2-4130-8a2cd025d931",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "a51329e6-f812-5257-5f4e-a8ca3532eeab": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Metal.mtli.nasset",
+        "thumbnail": "f8badf69-9ca4-020a-062c-fe546b971cc2",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "a9522475-acdf-dd41-7426-86dd06c0af17": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Table Big.mesh.nasset/Thumbnails/Table Big.mesh.nasset.tex.nasset"
+    },
+    "ab1b1cde-f143-8ee4-f15b-2508bfaef28e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor.mesh.nasset/Trapdoor Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ac965f43-9c3d-1963-462b-c476fd8e3e63": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door Side.mesh.nasset/Arch Door Side Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "acf792d1-88ad-58d5-993f-13b6da5a88d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Gold.mtli.nasset.tex.nasset"
+    },
+    "ad80eba1-5c8a-dbc8-2d8a-512c819d7c7b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Wood.mtli.nasset.tex.nasset"
+    },
+    "ae444e2b-ae89-e44d-6e66-36d789c75489": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Crate.mesh.nasset/Thumbnails/Crate.mesh.nasset.tex.nasset"
+    },
+    "aec8309c-fc40-b03c-bcb4-907655d04049": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door 2.mesh.nasset/Arch Door 2 Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "afdcf632-b027-8eeb-9f24-c9589eba82b1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence 90 Modular.mesh.nasset/Fence 90 Modular.mesh.nasset",
+        "thumbnail": "221a1739-3095-2a06-f4b8-02a6f1f516fd",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "93234bf0-3ce0-678f-e859-538f5d5281dc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "9741852d-3737-601f-1f5e-cfc61adbf4a4",
+            "bec46144-3dc2-4e73-fc33-d01df706cf16"
+        ]
+    },
+    "b24e8d12-595a-af2a-9f19-c98c32d3e230": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Wall Highlights.mtli.nasset.tex.nasset"
+    },
+    "b2ebc747-f613-c658-b9b1-17210f8e9f6b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor Open.mesh.nasset/Trapdoor Open.mesh.nasset",
+        "thumbnail": "81035c45-29d9-be10-5894-36f9aa44ac4c",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "9db77a1a-d5c8-b1b9-1d6f-b982211c6902",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "1e4f1045-8383-d8bc-95e9-67643b3cfe1f",
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "e24c879c-2e63-052a-8b73-6836be0ceabb",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "2686a8d0-e37e-ac5b-359f-b6247ff51d84"
+        ]
+    },
+    "b32eaa9e-70ce-0839-d8f4-9ba457e8b739": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Bone.mtli.nasset.tex.nasset"
+    },
+    "b47e9dcf-a4f3-4e60-f12a-de7aed600b37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword Wall Mount.mesh.nasset/Thumbnails/Sword Wall Mount.mesh.nasset.tex.nasset"
+    },
+    "b4a98e94-1e5d-931b-524e-69394bf59b9e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chair.mesh.nasset/Chair Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b4e04d8f-4184-d57e-d27e-85ebb1d22cfb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Cobweb.mtli.nasset",
+        "thumbnail": "4e618b40-d05c-3bb9-9e70-3d3fe9e7f505",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "b5ef1c7b-c9e0-182f-3cb0-6503fa8c8c56": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Spikes.mesh.nasset/Spikes Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b76984f6-7ea5-0372-be87-bc103c10ad31": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Iron.mtli.nasset",
+        "thumbnail": "69ebd428-e5c8-e01e-3f56-164068f8b4bf",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "b810fdc4-5d09-a8a8-2883-ee6783b30f26": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chair.mesh.nasset/Chair Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a4d5610e-a217-bbff-ff18-caa17beb2340",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b9ff42e0-ac86-4bd7-2647-aff2ff06fbb5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door Side.mesh.nasset/Arch Door Side Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bde87730-6de1-5b75-c66f-46bb7e7ffd8f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch.mesh.nasset/Arch Wall Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1e015a4f-516e-2499-1c68-164302ba7f37",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "be587501-8944-db39-7a69-e8a890ffb091": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trap Spikes.mesh.nasset/Trap Spikes Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bec46144-3dc2-4e73-fc33-d01df706cf16": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence 90 Modular.mesh.nasset/Fence 90 Modular Dark Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9741852d-3737-601f-1f5e-cfc61adbf4a4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bfb69d49-ab47-19a1-6ebd-bee5aa811e9e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Cobweb 1.mesh.nasset/Cobweb 1 Cobweb.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b4e04d8f-4184-d57e-d27e-85ebb1d22cfb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c0c91b61-175d-75fc-d30f-1ba466460e26": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Stairs Modular.mesh.nasset/Stairs Modular Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c4a406cc-a801-6e49-a7ea-c91d12509351": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Floor Bricks 2.mesh.nasset/Floor Bricks 2.mesh.nasset",
+        "thumbnail": "9ffecc1c-4e2b-b7eb-818b-34ff88079ce8",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "19fedafb-5533-81fc-a969-5ece51040a1f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c52915d9-07bf-f5fd-bcff-18471b030ea5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Fence Straight Modular.mesh.nasset/Fence Straight Modular.mesh.nasset",
+        "thumbnail": "a40759a3-52ea-76bc-0446-301d8e2e5daf",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "0cd623de-b8ad-501e-774f-478640b44b66",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "9741852d-3737-601f-1f5e-cfc61adbf4a4",
+            "3cabf998-f3af-89ab-de1e-4e973c44ff90"
+        ]
+    },
+    "c61a44c4-7a46-aa1f-091a-776ef2d41a31": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Light Steel.mtli.nasset",
+        "thumbnail": "43f12f15-1119-a147-3bf4-a81f7c4967fa",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "c985127a-ae9e-18bf-500b-104ee2b9289c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Horse.mesh.nasset/Horse Statue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2f27926f-2a61-f84a-8fde-3de01c567b0a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ca4eedb0-c7b1-b965-2c2d-5e188e9d85fc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Top.mesh.nasset/Chest Top.mesh.nasset",
+        "thumbnail": "ec2b309f-209d-3594-7637-4587849c9755",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "20a2476c-9141-a58c-3e38-94a25eaf32f2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "62c48fbb-e283-4024-d390-edeedb4c747f"
+        ]
+    },
+    "cc7884c6-884a-c0ec-42b2-c85960f08093": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Stairs Side Cover Wall.mesh.nasset/Stairs Side Cover Wall Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cd3a864c-3f6b-3a41-3b8b-794a62f21630": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Cobweb 2.mesh.nasset/Thumbnails/Cobweb 2.mesh.nasset.tex.nasset"
+    },
+    "cf54e6d1-3664-a274-f9d8-40e19e9dc187": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chair.mesh.nasset/Thumbnails/Chair.mesh.nasset.tex.nasset"
+    },
+    "d077c436-d5ec-9652-100f-5d673bb48d6c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Dark Metal.mtli.nasset",
+        "thumbnail": "61b40db9-b763-fdb0-e28d-9891c1349287",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d0ceebdd-2da3-f010-35b7-082b627fff92": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Stairs Side Cover.mesh.nasset/Stairs Side Cover.mesh.nasset",
+        "thumbnail": "0b3c3378-ef39-c47b-db5e-6104f26cd03e",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "e0f38dfd-d616-75d5-ab2e-9eff8791cdf8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d3dd0662-fc55-769c-bfaf-aad4b6f24e33": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Table Big.mesh.nasset/Table Big Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d4070a19-d500-77d8-8369-f0c9ad51aa5f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Floor Modular.mesh.nasset/Thumbnails/Floor Modular.mesh.nasset.tex.nasset"
+    },
+    "d4240538-4453-be94-9d3d-67bb615f81df": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Barrel 2.mesh.nasset/Barrel 2 Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d4a4fe16-6891-f38c-3bd3-366e8e8d8c01": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Table Small.mesh.nasset/Table Small Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d614e7d1-d32f-e50f-ced7-806820d28020": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword Big.mesh.nasset/Sword Big Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d76e9795-e01e-fdf2-c1cd-8452e5b5ac4f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chair.mesh.nasset/Chair Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d7be7666-57b9-cf3d-9345-16592ea4d3d5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Light Wood.mtli.nasset.tex.nasset"
+    },
+    "d8b15a46-2114-a663-3fc7-e6c63e3d5ce4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bag Coins.mesh.nasset/Bag Coins.mesh.nasset",
+        "thumbnail": "4e0b4018-4101-fc3d-cdbf-aaa1923387a2",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0740f485-d33c-d454-4a29-e810406dff86",
+            "faf926b7-b3b6-5c75-70fe-6cbb90830237",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "e59b9ab9-2ec1-9979-3293-e723d1a9e225",
+            "16894dac-dad4-54fe-4ded-73485e2d8a19"
+        ]
+    },
+    "d8b39512-5757-46e1-1cf2-c0582c08daec": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door Side.mesh.nasset/Arch Door Side Dark Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d94219d5-30f4-45e4-ead3-c8bf402caf29": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword Big.mesh.nasset/Sword Big.mesh.nasset",
+        "thumbnail": "a018ec60-f5c2-a5ce-57b4-e62fcf4a9a83",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "d614e7d1-d32f-e50f-ced7-806820d28020",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "3c6c81af-7020-0b25-f123-d5721a853df9",
+            "63f73623-51e5-2bb1-8b90-113999755a0c",
+            "8f50d4cb-4f4c-1518-35d9-15269ea37612",
+            "9de6c0f2-62cd-23fe-b44e-9943d3a6560f",
+            "7b74f596-fd37-ca1f-b8e2-f0536336dc4b",
+            "2ee6d1c0-e08f-ad06-d9c8-6fd18252fc04",
+            "c61a44c4-7a46-aa1f-091a-776ef2d41a31",
+            "086ff173-ee7f-32aa-fa3f-5add95b3cc1c"
+        ]
+    },
+    "dd4f084a-7928-4de2-9d01-0ba89f1e076c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base Full.mesh.nasset/Chest Base Full Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dd5db69c-5004-359f-6e5f-d0c2233ec689": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Thread.mtli.nasset",
+        "thumbnail": "9315e776-2342-b6b1-3c67-6a892256ac03",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "dd8763b0-b01b-7e9e-7a7f-88dbe9535593": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Barrel 2.mesh.nasset/Barrel 2.mesh.nasset",
+        "thumbnail": "404ab249-617d-7750-fb2a-c291b485a32e",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "d4240538-4453-be94-9d3d-67bb615f81df",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "7c047b4a-6f4b-a987-41d3-99dc453fef12"
+        ]
+    },
+    "dd9cbe5a-3839-4a18-d7e5-5fef154d3f59": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wall Cover Modular.mesh.nasset/Thumbnails/Wall Cover Modular.mesh.nasset.tex.nasset"
+    },
+    "ddab5c08-a341-df2e-1819-9b1e6aa8ffb7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wall Modular.mesh.nasset/Wall Modular Wall Medium.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f926d79d-2739-555e-85da-6ecc8831fb77",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "df503a25-2682-827b-d4f9-579e97d11b17": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Cobweb 1.mesh.nasset/Thumbnails/Cobweb 1.mesh.nasset.tex.nasset"
+    },
+    "dfecc5d4-8e89-983e-b7c9-efb8a94de8b9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Grey Floor.mtli.nasset.tex.nasset"
+    },
+    "e0f38dfd-d616-75d5-ab2e-9eff8791cdf8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Stairs Side Cover.mesh.nasset/Stairs Side Cover Grey Floor.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e14448e1-6ce1-dfb8-5441-cbd8845a5bf3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door Side.mesh.nasset/Thumbnails/Arch Door Side.mesh.nasset.tex.nasset"
+    },
+    "e184fb63-4990-2177-fc15-61e1f35cd217": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Column 1.mesh.nasset/Column 1.mesh.nasset",
+        "thumbnail": "552cda43-0020-21c9-2483-d5e29d8c8dd6",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f563eac2-988b-9e7a-b45c-c3a4e27e32e1",
+            "52d79abe-6700-eb2a-8cfb-a56145b053f2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "9741852d-3737-601f-1f5e-cfc61adbf4a4",
+            "26ba97d2-079e-d769-0a4d-daa4ff37596b"
+        ]
+    },
+    "e24c879c-2e63-052a-8b73-6836be0ceabb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor Open.mesh.nasset/Trapdoor Open Dark Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e30240af-6041-d057-7016-d003d4179fd2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wood Fire.mesh.nasset/Wood Fire.mesh.nasset",
+        "thumbnail": "7529b511-121d-0435-c6b2-0a9bb85e71d3",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "1a93861b-a2f0-7db8-3297-53992d0d38ef",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "893c6b97-ff80-c6f5-f3bd-a132f111eb61",
+            "e9592513-b0c2-cde1-2492-e8c34c92211e",
+            "221841e7-7058-fbe4-efd6-dfd3690d1907"
+        ]
+    },
+    "e3623645-1637-c3c1-e67f-4641b9fac33a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword.mesh.nasset/Sword.mesh.nasset",
+        "thumbnail": "ea527413-18e0-9303-9a2e-be6a2deca1e9",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "3c6c81af-7020-0b25-f123-d5721a853df9",
+            "1096c804-6356-95cb-c823-32f616154ae2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "344faabb-36d2-ae6d-b0b4-101d0d5798aa",
+            "8f50d4cb-4f4c-1518-35d9-15269ea37612",
+            "422a54b3-5afe-d766-1dd7-e480888fb552",
+            "c61a44c4-7a46-aa1f-091a-776ef2d41a31",
+            "1e1f2ad5-ef03-9beb-fe09-926457f97989",
+            "7b74f596-fd37-ca1f-b8e2-f0536336dc4b",
+            "ed96e550-41ec-3973-fa46-935e71918e00"
+        ]
+    },
+    "e3a1c894-21c6-b3fd-2bed-7f5a56fea62f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Wall Modular.mesh.nasset/Thumbnails/Wall Modular.mesh.nasset.tex.nasset"
+    },
+    "e40c7bd8-a869-015b-bca5-c03267ddd1f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trap Empty.mesh.nasset/Trap Empty Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e59b9ab9-2ec1-9979-3293-e723d1a9e225": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Gold.mtli.nasset",
+        "thumbnail": "acf792d1-88ad-58d5-993f-13b6da5a88d7",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "e5e6db30-32d6-0ee0-0501-402047760b27": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner wall.mesh.nasset/Thumbnails/Banner wall.mesh.nasset.tex.nasset"
+    },
+    "e5ec0886-e1f0-fb22-f93f-e11ecf0f8d5f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor.mesh.nasset/Trapdoor Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e9266d1d-58ff-8e94-0671-5f9dbc4055d1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner.mesh.nasset/Banner Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e9592513-b0c2-cde1-2492-e8c34c92211e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Fire.mtli.nasset",
+        "thumbnail": "f7778051-d874-8cff-a743-90a98dd7481a",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "e9cde43e-2682-39bc-166d-cf5c61b74507": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Stairs Modular.mesh.nasset/Thumbnails/Stairs Modular.mesh.nasset.tex.nasset"
+    },
+    "ea527413-18e0-9303-9a2e-be6a2deca1e9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword.mesh.nasset/Thumbnails/Sword.mesh.nasset.tex.nasset"
+    },
+    "eab7e603-4b0a-29c2-8706-298aedaef5cc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch.mesh.nasset/Arch Wall Medium.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f926d79d-2739-555e-85da-6ecc8831fb77",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ec2b309f-209d-3594-7637-4587849c9755": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Top.mesh.nasset/Thumbnails/Chest Top.mesh.nasset.tex.nasset"
+    },
+    "ed17a18a-be98-7f3c-4c4c-09b068bc935d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bucket.mesh.nasset/Bucket.mesh.nasset",
+        "thumbnail": "661265c6-4f6b-0c2b-a9a8-af228cb4dd60",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "7bf165ee-096a-f79b-dc35-c0354b0e9cad",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "3f321869-3b08-98d4-8cb9-c9cb80923349",
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "61cf0c1c-0986-042c-5e6d-b0122dc7db78"
+        ]
+    },
+    "ed96e550-41ec-3973-fa46-935e71918e00": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Sword.mesh.nasset/Sword Steel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7b74f596-fd37-ca1f-b8e2-f0536336dc4b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "eff31191-d5d2-afc8-e39c-6a0e49b2430d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch.mesh.nasset/Thumbnails/Arch.mesh.nasset.tex.nasset"
+    },
+    "f0954c5d-54f8-5f78-46a6-3702f16a2ed7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base Full.mesh.nasset/Chest Base Full Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f24d7116-afa4-4de0-aa49-82c712ced2e4": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Lost Quarters Assets"
+    },
+    "f45541f2-11a6-e0dd-aab4-d5f1b3da1bcd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Chest Base.mesh.nasset/Chest Base Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f4b014bf-e314-f8c6-c712-6d7cba74904b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Dark Grey Floor.mtli.nasset.tex.nasset"
+    },
+    "f4d21bd4-e81b-d3f7-6763-92b7d1370b32": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Wall Dark.mtli.nasset.tex.nasset"
+    },
+    "f563eac2-988b-9e7a-b45c-c3a4e27e32e1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Grey Floor.mtli.nasset",
+        "thumbnail": "dfecc5d4-8e89-983e-b7c9-efb8a94de8b9",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "f609b597-5ac0-65c4-d368-3c63cc7bd431": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Barrel 1.mesh.nasset/Thumbnails/Barrel 1.mesh.nasset.tex.nasset"
+    },
+    "f66a3bf2-1484-8159-fef2-50538e883e1c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door Side.mesh.nasset/Arch Door Side.mesh.nasset",
+        "thumbnail": "e14448e1-6ce1-dfb8-5441-cbd8845a5bf3",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "0e6c5376-5b91-7346-b7d5-106c862e4ad4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "b9ff42e0-ac86-4bd7-2647-aff2ff06fbb5",
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "d8b39512-5757-46e1-1cf2-c0582c08daec",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "ac965f43-9c3d-1963-462b-c476fd8e3e63"
+        ]
+    },
+    "f684d440-8d38-be31-2ef1-edef05baa098": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Trapdoor.mesh.nasset/Thumbnails/Trapdoor.mesh.nasset.tex.nasset"
+    },
+    "f7778051-d874-8cff-a743-90a98dd7481a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Fire.mtli.nasset.tex.nasset"
+    },
+    "f8badf69-9ca4-020a-062c-fe546b971cc2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Metal.mtli.nasset.tex.nasset"
+    },
+    "f926d79d-2739-555e-85da-6ecc8831fb77": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Wall Medium.mtli.nasset",
+        "thumbnail": "48ccecac-85b8-cccf-93a8-565ea8551416",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "fad8c600-84f8-6d13-c309-ba2c4e81051a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Banner wall.mesh.nasset/Banner wall.mesh.nasset",
+        "thumbnail": "e5e6db30-32d6-0ee0-0501-402047760b27",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "21f9d6e7-a792-70ca-3ce1-59279269908b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "4bb57605-ab7d-edcb-47e5-41f0280b802b",
+            "a4d5610e-a217-bbff-ff18-caa17beb2340",
+            "78073394-4c14-6462-ae0f-5158e82c7b26"
+        ]
+    },
+    "faf926b7-b3b6-5c75-70fe-6cbb90830237": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Bag Coins.mesh.nasset/Bag Coins Bag.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0740f485-d33c-d454-4a29-e810406dff86",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fb8b5769-e966-e79e-c929-8a71306552c8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Arch Door 2.mesh.nasset/Arch Door 2 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a51329e6-f812-5257-5f4e-a8ca3532eeab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fdb0aa61-dcec-e99d-2517-0b63f93d0bfc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Table Small.mesh.nasset/Table Small.mesh.nasset",
+        "thumbnail": "151883a7-d6e6-456d-b414-a39ede867708",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "574c4dac-95be-278f-541e-038e1f99054b",
+            "d4a4fe16-6891-f38c-3bd3-366e8e8d8c01",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "26d45c98-6432-2c9d-c769-27a9d96c0ed1",
+            "810e474c-02aa-d569-ccbf-b08c5fa78415",
+            "d077c436-d5ec-9652-100f-5d673bb48d6c",
+            "8fb1a26c-c0ad-ebe8-4675-67106d7f2c54"
+        ]
+    },
+    "ff505b44-50ce-276e-a987-683dfaf7cee5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Lost_Quarters.scene.nasset/Pedestal 1.mesh.nasset/Thumbnails/Pedestal 1.mesh.nasset.tex.nasset"
+    },
+    "guid": "48188009-9b23-01d2-0853-d240275a6e24"
+}
